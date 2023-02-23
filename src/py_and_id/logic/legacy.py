@@ -1,6 +1,6 @@
-''' DEPRECATED element definitions, based on dictionaries instead of classes, translated
+""" DEPRECATED element definitions, based on dictionaries instead of classes, translated
     into their newer class counterparts.
-'''
+"""
 
 from functools import partial
 
